@@ -89,7 +89,11 @@
   /* SCROLL ANIMATIONS
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .scroll .page-header {
-    background-color:#4a6364 !important;
+    /* background-color:#4a6364 !important; */
+  background-color: #4a6364;
+  background-image: url("https://i.imgur.com/fOpMKdh.png");
+  background-repeat:repeat;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.6)
   }
   
   .scroll .hero {
@@ -181,7 +185,11 @@
       text-align: center;
     }
   }
-#header{
-    color:#4a6364 !important;
-  }
+
+ /* #header{
+background-color: #4a6364;
+  background-image: url("https://i.imgur.com/fOpMKdh.png");
+  background-repeat:repeat;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.6)
+ }  */
 

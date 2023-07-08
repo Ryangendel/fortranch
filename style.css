@@ -60,7 +60,7 @@
   }
 
   .icons{
-    color:#5BBA6F;
+    color:#4b5320;
     font-size:3em;
   }
 
@@ -90,8 +90,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .scroll .page-header {
     /* background-color:#4a6364 !important; */
-  background-color: #4a6364;
-  background-image: url("https://i.imgur.com/fOpMKdh.png");
+  /* background-color: #4a6364; */
+  background-image: url("https://i.imgur.com/MAI08TT.png");
   background-repeat:repeat;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.6)
   }
@@ -151,7 +151,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.3);
+    background-color:rgb(29.41, 32.55, 12.55, 0.7);
   }
   
   .popular-destinations img {

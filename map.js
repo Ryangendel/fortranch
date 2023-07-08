@@ -6,7 +6,7 @@ async function initMap() {
   "https://fortituderanch.com/wp-content/uploads/2022/08/FortitudeRanch-REG-logo-e1660763711267.png";
   // The location of Uluru
   // 37.469448, and the longitude is -105.870018
-  const position = { lat:  25.469448, lng: -80.870018 };
+  const position = { lat: 36.2694, lng: -104.0098 };
 
   // Request needed libraries.
   //@ts-ignore
